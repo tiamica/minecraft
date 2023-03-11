@@ -1,4 +1,4 @@
-# Miecraft Demo
+# Minecraft Demo
 
 Built with [A-Frame](https://aframe.io).
 
