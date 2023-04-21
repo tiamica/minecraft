@@ -149,7 +149,7 @@ AFRAME.registerComponent('maze', {
           let animation = document.createElement('a-animation');
           animation.setAttribute("attribute", "material.color");
           animation.setAttribute("from", pColor);
-          animation.setAttribute("to", "white");
+          animation.setAttribute("to", "red");
           animation.setAttribute("dur","500");
           animation.setAttribute("repeat","indefinite");
           sphere.appendChild(animation);
