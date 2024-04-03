@@ -4,7 +4,7 @@ Pacman VR experience using web framework [A-Frame](https://aframe.io/)
 
 ## Live Demo
 
-https://shaqian.github.io/pacman/
+[Demo](https://pacman-team1.netlify.app/)
 
 ![demo](demo.gif)
 
